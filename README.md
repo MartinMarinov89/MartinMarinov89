@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Martin Marinov
-- 👀 I’m interested in Python programing language, Car restauration, small DIY projects.
+- 👀 I’m interested in Python programing language, Car restoration, Small DIY projects, Reading books.
 - 🌱 I’m currently learning Python programing language.
-- 💞️ I’m looking to collaborate on some beginner Python project or exchange some experience with other entuasuast.
+- 💞️ I’m looking to collaborate on some beginner Python project or exchange some experience with other python enthusiasts.
 - 📫 How to reach me m.marinov0214@gmail.com
 
 <!---
